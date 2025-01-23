@@ -5,3 +5,9 @@ We use a combination of the following websites to fetch domain's registration de
 
 # Generic Top-Level Domains (gTLDs) such as .com, .net, .org etc
 [https://lookup.icann.org/en](https://lookup.icann.org/en)
+
+# UK domains such as .co.uk, .uk, .london
+[https://www.nominet.uk/lookup/](https://www.nominet.uk/lookup/)
+
+# India domains such as .in, .co.in
+[https://whois.registry.in/](https://whois.registry.in/)
