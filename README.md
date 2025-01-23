@@ -4,4 +4,5 @@ Links to various sites where you can get whois information about domains. Unfort
 We use a combination of the following websites to fetch domain's registration details on our website [Fliprly](https://fliprly.com)
 
 #.com, .net, .org
+
 [https://lookup.icann.org/en](https://lookup.icann.org/en)
