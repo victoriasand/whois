@@ -11,5 +11,6 @@ We use a combination of the following websites to fetch domain's registration de
 ## UK domains such as .co.uk, .uk, .london
 [https://www.nominet.uk/lookup/](https://www.nominet.uk/lookup/)
 
-## India domains such as .in, .co.in
-[https://whois.registry.in/](https://whois.registry.in/)
+## Italy E.g. .it domains
+[https://web-whois.nic.it/](https://web-whois.nic.it/)
+
